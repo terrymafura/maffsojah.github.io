@@ -1,0 +1,15 @@
+---
+title: "100 Days of Code Challenge Intro"
+layout: post
+date: 2017-07-25 23:00
+headerImage: true
+tag:
+- 100DaysOfCodeChallenge
+category: blog
+author: terrymafura
+description: 100 Days of Code Challenge Days 1-10
+---
+
+I have decided to take part in the 100 Days of Code Challenge. I will be mainly focusing on learning JavaScript and famliarising myself with contributions to Open Source projects.  
+
+I  am so excited :stuck_out_tongue_winking_eye:
