@@ -21,4 +21,4 @@ description: 100 Days of Code Challenge Days 1-10
 - On the *Project Manager* App I decided to start with some new layout because it was just plain old JSX without any styles  
 - I got to learn about Component Validation using PropTypes, Authentication and building react for production.  
 - *The Open Source Project*  - I learnt a very huge lesson today, I realised I have a long way to go and I havent really grasped as much as I would expect to. I met people who were writing code I had never seen before, concepts I had never heard of before.  
-- I will be good at this 😜
+- I will be good at this :stuck_out_tongue_winking_eye:
