@@ -13,4 +13,12 @@ description: 100 Days of Code Challenge Days 1-10
 ## Day 1
 ### [1] Project Manager application using React JS
 - setup project, linked with Firebase, added Projects and Todo components, getting Todos from API
-- Also started contributing to some awesome project *well, not really. haven't started yet, but I'm in. I will post more about it. yaaay*
+- Also started contributing to some awesome project *well, not really. haven't started yet, but I'm in. I will post more about it. yaaay*  
+
+## Day 2
+### [2] Project Manager App, React for Beginners
+- today I decided to get back to the drawing board. I realised I had a lot to learn and since I have practised what I have learnt so far on a project, I decided to get back to reading.  
+- On the *Project Manager* App I decided to start with some new layout because it was just plain old JSX without any styles  
+- I got to learn about Component Validation using PropTypes, Authentication and building react for production.  
+- *The Open Source Project*  - I learnt a very huge lesson today, I realised I have a long way to go and I havent really grasped as much as I would expect to. I met people who were writing code I had never seen before, concepts I had never heard of before.  
+- I will be good at this :wink2:
