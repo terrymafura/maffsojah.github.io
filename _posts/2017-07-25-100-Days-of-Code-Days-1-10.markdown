@@ -25,9 +25,9 @@ description: 100 Days of Code Challenge Days 1-10
 
 ## Day 3
 ### [3] Vanilla JS, React  
-- today was a bit tricky. Besides trying to learnt how I could contribute to an Open Source project, I was back at Vanilla JavaScript.  
+- today was a bit tricky. Besides trying to learn how I could contribute to an Open Source project, I was back at Vanilla JavaScript.  
 - Most of the problems I am facing are merely caused by not fully grasping JavaScript (I intend to be a ninja though :stuck_out_tongue_winking_eye:)  
-- I also learnt how to build react projects for production and how to deploy on Now, Github apages and Apache server.  
+- I also learnt how to build react projects for production and how to deploy on now.sh, Github Pages and Apache server.  
 - I was a bit tired today, didn't feel like doing any coding. As I was writing this post, I thought about my favorite quote and I guess I will be staying up for another 3 hours.
 > Decide that you want it more than you are afraid of it.
 > - Unknown
