@@ -34,3 +34,9 @@ description: 100 Days of Code Challenge Days 1-10
 - I was a bit tired today, didn't feel like doing any coding. As I was writing this post, I thought about my favorite quote and I guess I will be staying up for another 3 hours.
 > Decide that you want it more than you are afraid of it.
 > - Unknown
+
+
+## Day 4 July 28 2017
+### [4] Vanilla JS   
+- today was about getting up from the basics. I was reading about objects and arrays again.  
+- this will make sense in the next couple of days
