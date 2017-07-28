@@ -2,6 +2,7 @@
 title: "100 Days of Code Challenge Days 1-10"
 layout: post
 date: 2017-07-25 23:00
+image: /assets/images/react.svg
 headerImage: true
 tag:
 - 100DaysOfCodeChallenge
@@ -13,8 +14,9 @@ description: 100 Days of Code Challenge Days 1-10
 ## Day 1 July 25 2017
 ### [1] Project Manager application using React JS
 - setup project, linked with Firebase, added Projects and Todo components, getting Todos from API
-- Also started contributing to some awesome project *well, not really. haven't started yet, but I'm in. I will post more about it. yaaay*   
-- Link to th project [Project Manager App](https://github.com/maffsojah/projectmanager) 
+- Also started contributing to some awesome project *well, not really. haven't started yet, but I'm in. I will post more about it. yaaay*    
+
+- Link to the project [Project Manager App](https://github.com/maffsojah/projectmanager)
 
 ## Day 2 July 26 2017
 ### [2] Project Manager App, React
