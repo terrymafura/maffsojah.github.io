@@ -39,4 +39,9 @@ description: 100 Days of Code Challenge Days 1-10
 ## Day 4 July 28 2017
 ### [4] Vanilla JS   
 - today was about getting up from the basics. I was reading about objects and arrays again.  
-- this will make sense in the next couple of days
+- this will make sense in the next couple of days  
+
+## Day 5 July 29 2017
+### [5] Vanilla JS
+- I finished up freeCodeCamp Basic Javascript.
+- started on the basic algorithm scripting with JavaScript
