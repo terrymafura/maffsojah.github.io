@@ -45,3 +45,9 @@ description: 100 Days of Code Challenge Days 1-10
 ### [5] Vanilla JS
 - I finished up freeCodeCamp Basic Javascript.
 - started on the basic algorithm scripting with JavaScript
+
+## Day 6 July 30 2017
+### [6] freeCodeCamp  
+- learnt about JSON APIs and Ajax
+- started the intermediate Front End Development Projects  
+- I don't really like Bootstrap so I have been learning materialize-css, it if a pretty cool framework.
