@@ -54,7 +54,7 @@ description: 100 Days of Code Challenge Days 1-10
 
 ## Day 7 - July 31 2017
 ### [7] React
--  since I decided to start refreshing my JS, I also started React again with React Fundamentals by [Tyler Mcginnis](https://twitter.com/tylermcginnis)
+-  since I decided to start refreshing my JS, I also started React again with React Fundamentals by [Tyler Mcginnis](https://twitter.com/tylermcginnis33)
 - this was after I learnt about uploading my react sites on now.sh, Github Pages, Apache Server and why I can eject my create-react-app
 - the learning process is a bit jumbled up, this is because I figured I couldn't finish courses if I got stuck on them for a long time.
 - I do feel tired, been a busy day at work but I realise I have to get at least an hour to learn code, learn JavaScript, learn React.
