@@ -51,3 +51,13 @@ description: 100 Days of Code Challenge Days 1-10
 - learnt about JSON APIs and Ajax
 - started the intermediate Front End Development Projects  
 - I don't really like Bootstrap so I have been learning materialize-css, it if a pretty cool framework.
+
+## Day 7 July 31 2017
+### [7] React
+-  since I decided to start refreshing my JS, I also started React again with React Fundamentals by [Tyler Mcginnis](https://twitter.com/tylermcginnis)
+- this was afrer I learnt about uploading my react sites on now.sh, Github Pages, Apache Server and why I can eject my create-react-app
+- the learning process is a bit jumbled up, this is because I figured I couldn't finish courses if I got stuck on them for a long time.
+- I do feel tired, been a busy day at work but I realise I have to get at least an hour to learn code, learn JavaScript, learn React.
+- In the next few weeks I will get a lot busier at work and will be travelling too. My only hope is I don't get tired with this process, I don't lose hope in the process, I keep coding and coding until I am the ninja I wish to be.
+- I plan to not stop, I plan to finish these 100 Days and continue for more and I will do just that.
+- 😜
