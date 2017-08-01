@@ -61,3 +61,9 @@ description: 100 Days of Code Challenge Days 1-10
 - In the next few weeks I will get a lot busier at work and will be travelling too. My only hope is I don't get tired with this process, I don't lose hope in the process, I keep coding and coding until I am the ninja I wish to be.
 - I plan to not stop, I plan to finish these 100 Days and continue for more and I will do just that.
 - :stuck_out_tongue_winking_eye:
+
+## Day 8 - August 01 2017
+### [8] React Fundamentals
+- learnt about Webpack, JavaScript Modules and Babel.
+- focus was on how the stuff works in React and how to use them.
+- Today was one of the most productive days I've had on this process
