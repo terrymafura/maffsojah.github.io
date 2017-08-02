@@ -67,3 +67,8 @@ description: 100 Days of Code Challenge Days 1-10
 - learnt about Webpack, JavaScript Modules and Babel.
 - focus was on how the stuff works in React and how to use them.
 - Today was one of the most productive days I've had on this process
+
+## Day 9 - August 02 2017
+### [9] React Fundamentals
+- learnt about Dataflow with Props in React
+- building UIs with Pure Functions and Function Composition in React
