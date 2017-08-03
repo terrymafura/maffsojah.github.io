@@ -72,3 +72,9 @@ description: 100 Days of Code Challenge Days 1-10
 ### [9] React Fundamentals
 - learnt about Dataflow with Props in React
 - building UIs with Pure Functions and Function Composition in React
+
+## Day 10 - August 03 2017
+### [10] React Fundamentals
+- read about the multiple approaches of handling the **this** keyword
+- since I started React,  have been binding in the constructor. I will continue doing this until I understand more about using Arrow functions in the class property.  
+- Phew, the first 10 days. They felt like 20years woah!! I'm glad I'm getting used to it and learning a lot too :stuck_out_tongue_winking_eye:
