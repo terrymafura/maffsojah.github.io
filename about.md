@@ -5,10 +5,11 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <br/>
-<p>Hi, I am Terry Mafura aka maffsojah. I'm not a robot, I'm just like you</p>
+<p>Hi, I am Terry aka maffsojah. I'm not a robot, I'm just like you</p>
+<p>I'm a 25 year old from Harare, Zimbabwe. I love programming and design so I'm learning JavaScript and React. I also developed a passion for Data when I developed a machine learning application for my Capstone Project. I used Apache Spark + Python and Django for the web app.</p>
+<p>When I'm not on my PC coding and reading, I will be on my PC listening to music and playing around with Photoshop.</p>
 
 <!-- <h2>Skills</h2>
-
 <ul class="skill-list">
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
