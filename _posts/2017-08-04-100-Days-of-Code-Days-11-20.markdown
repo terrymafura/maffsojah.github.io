@@ -1,5 +1,5 @@
 ---
-title: "100 Days of Code Challenge Days 1-10"
+title: "100 Days of Code Challenge Days 11-20"
 layout: post
 date: 2017-08-04 23:00
 image: /assets/images/react.svg
