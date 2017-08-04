@@ -1,0 +1,18 @@
+---
+title: "100 Days of Code Challenge Days 1-10"
+layout: post
+date: 2017-08-04 23:00
+image: /assets/images/react.svg
+headerImage: true
+tag:
+- 100DaysOfCodeChallenge
+category: blog
+author: terrymafura
+description: 100 Days of Code Challenge Days 11-20
+---
+
+## Day 11 - August 04 2017
+### [11] React Fundamentals  
+- today was a very hectic day, too much work at the office and less code today.
+- I did spare some time to read about implicit binding, explicit binding and new and window binding using the **this** keyword.
+- Day 11 yaaaaaaay :stuck_out_tongue_winking_eye:
