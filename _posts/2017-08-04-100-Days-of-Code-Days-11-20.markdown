@@ -16,3 +16,7 @@ description: 100 Days of Code Challenge Days 11-20
 - today was a very hectic day, too much work at the office and less code today.
 - I did spare some time to read about implicit binding, explicit binding and new and window binding using the **this** keyword.
 - Day 11 yaaaaaaay :stuck_out_tongue_winking_eye:
+
+## Day 12 - August 05 2017
+### [12] React Fundamentals
+- learnt about new and window binding
