@@ -20,3 +20,17 @@ description: 100 Days of Code Challenge Days 11-20
 ## Day 12 - August 05 2017
 ### [12] React Fundamentals
 - learnt about new and window binding
+
+## Day 13 - August 06 2017
+### [13] React Fundamentals
+- learnt about stateful and stateless functions
+
+## Day 14 - August 07 2017
+### [14] React Fundamentals
+- busy day at the office, didn't even touch or see any code.
+- I'm even dissappointed in myself but the body refused to do anything.
+
+## Day 15 - August 08 2017
+### [15] React Fundamentals
+- still too much work, was out of office but managed to squeeze in 30 minutes of writng some code.
+- Not really impressed but I guess I will be back to normal tomorrow
