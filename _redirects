@@ -1,0 +1,5 @@
+# Redirect default Netlify subdomain to primary domain
+http://maffsojah.netlify.com/* http://www.maffsojah.co.zw/:splat 301!
+
+# Redirect default Github subdomain to primary domain
+http://maffsojah.github.io/* http://www.maffsojah.co.zw/:splat 301!
