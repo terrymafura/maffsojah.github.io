@@ -1,5 +1,5 @@
 ---
-title: "HNG5 - Stage 2 task"
+title: "HNG5 - Stage 1 task"
 layout: post
 date: 2019-04-01 22:00
 image: 
@@ -10,12 +10,12 @@ tag:
 category: blog
 star: false
 author: terrymafura
-description: HNG5 - Stage 2 task
+description: HNG5 - Stage 1 task
 ---
 
 ## Part (a)
 
-The first part of the Stage 2 task invovlved testing [timbucom](https://timbu.com) for bugs then reporting them and blogging about it.
+The second part of the Stage 1 task involved testing [timbu.com](https://timbu.com) for bugs then reporting them and blogging about it.
 I noticed that the stars rating for hotels on refine search was not working. The stars should be clickable to sort hotels by their ratings but they were just static icons.
 I have attached a screenshot below;
  
@@ -23,3 +23,6 @@ I have attached a screenshot below;
 
 
 [1]: https://farm8.staticflickr.com/7832/47517701001_c869025630_h.jpg
+
+
+Make sure you check out [timbu.com](https://timbu.com)
