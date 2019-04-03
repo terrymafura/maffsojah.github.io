@@ -16,7 +16,7 @@ description: HNG5 - Stage 1 task
 ## Part (a)
 
 The second part of the Stage 1 task involved testing [timbu.com](https://timbu.com) for bugs then reporting them and blogging about it.
-I noticed that the stars rating for hotels on refine search was not working. The stars should be clickable to sort hotels by their ratings but they were just static icons.
+I noticed that the stars rating for hotels on refine search was not working. The stars should be clickable to sort hotels by their ratings but they were just static icons. 
 I have attached a screenshot below;
  
 ![Markdowm Image][1]
@@ -25,4 +25,8 @@ I have attached a screenshot below;
 [1]: https://farm8.staticflickr.com/7832/47517701001_c869025630_h.jpg
 
 
-Make sure you check out [timbu.com](https://timbu.com)
+Make sure you check out [timbu.com](https://timbu.com). It's a very cool website that provides instant access to Hotels, Flights, Study Destinations and Visa Information from all over the world. You can also search for different countries to access different types of useful information like popular travels sites, network information and even the status and safety in those countries.
+
+This is very cool considering it also showcases a lot of beautiful places in Africa thus promoting tourism. 
+
+Have a look at it and travel the world. Yaaaay!!!
