@@ -2,7 +2,7 @@
 title: "Along came forloopZimbabwe"
 layout: post
 date: 2019-05-13 09:00
-image: /assets/images/official_banner.jpg
+image: /assets/images/official_banner.png
 headerImage: true
 tag:
 - zimbabwe
