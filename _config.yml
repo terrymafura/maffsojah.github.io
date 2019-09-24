@@ -8,7 +8,7 @@ description: I'm not a robot, I'm just like you
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/maffsojah.jpg
+picture: assets/images/maffsojah.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://maffsojah.github.io
+url: https://maffsojah.co.zw
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -56,7 +56,7 @@ authors:
         name: Terry Mafura
         bio: I'm not a robot, I'm just like you
         external-image: false
-        picture: assets/images/maffsojah.jpg
+        picture: assets/images/maffsojah.png
         twitter: maffsojah
 
 # do you want a larger site? change the option below
