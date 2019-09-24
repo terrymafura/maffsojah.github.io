@@ -5,9 +5,9 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <br/>
-<p>Hi, I am Terry aka maffsojah. I'm not a robot, I'm just like you</p>
-<p>I'm a 25 year old from Harare, Zimbabwe. I love programming and design so I'm learning JavaScript and React. I also developed a passion for Data when I developed a machine learning application for my Capstone Project. I used Apache Spark + Python and Django for the web app.</p>
-<p>When I'm not on my PC coding and reading, I will be on my PC listening to music and playing around with Photoshop.</p>
+<p>Hi, I am Terry. I'm not a robot, I'm just like you</p>
+<p>I'm a Junior Systems Developer from Harare, Zimbabwe. I write BASIC like code during the day and learn/ write JavaScript during the night. </p>
+<p>I love building communities and I co-lead one called <a href="https://forloopzim.co.zw" target="_blank">forloopZimbabwe</a>. It is just a community of developers and tech enthusiasts from Zimbabwe.</p>
 
 <!-- <h2>Skills</h2>
 <ul class="skill-list">
