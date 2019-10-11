@@ -18,7 +18,7 @@ externalLink: false
 
 ## A new chapter from Southern Africa
 
-> _"There is no power fro change greater than a community discovering what it cares about."_
+> _"There is no power for change greater than a community discovering what it cares about."_
 >
 > > Margaret J. Wheatley
 
