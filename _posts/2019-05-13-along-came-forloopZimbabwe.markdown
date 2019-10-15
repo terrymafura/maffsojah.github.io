@@ -9,7 +9,7 @@ tag:
 - forloopZimbabwe
 - forloopAfrica
 category: blog
-star: false
+star: true
 author: terrymafura
 description: Along came forloopZimbabwe
 hidden: false # don't count this post in blog pagination
