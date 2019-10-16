@@ -12,7 +12,7 @@ category: blog
 star: true
 author: terrymafura
 description: Managing your work and your hobbies
-hidden: false # don't count this post in blog pagination
+hidden: true # don't count this post in blog pagination
 externalLink: false
 ---
 
